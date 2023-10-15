@@ -17,6 +17,6 @@ You can see what I am up to on [my webiste](https://kevin-nel.github.io) or on [
 
  <div align="center">
       <p>profile visits</p>
-      <img src="https://profile-counter.glitch.me/plainoldcheese/count.svg?"/>
+      <img src="https://profile-counter.glitch.me/kevin-nel/count.svg?"/>
  </div>
 
