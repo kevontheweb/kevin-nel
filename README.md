@@ -15,4 +15,8 @@ You can see what I am up to on [my webiste](https://kevin-nel.github.io) or on [
 </div>
  -->
 
+ <div align="center">
+      <p>profile visits</p>
+      <img src="https://profile-counter.glitch.me/plainoldcheese/count.svg?"/>
+ </div>
 
